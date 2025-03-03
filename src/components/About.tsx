@@ -46,7 +46,7 @@ const About: React.FC<AboutProps> = ({ darkMode }) => {
           <div>
             <h3 className="text-2xl font-bold mb-4">Who I Am</h3>
             <p className="text-gray-700 dark:text-gray-300 mb-6">
-              I'm a passionate software developer with over 5 years of
+              I'm a passionate software developer with over 3+ years of
               experience in creating beautiful, functional, and user-centered
               digital experiences. My journey in software development began with
               a curiosity about how things work on the web, which quickly
